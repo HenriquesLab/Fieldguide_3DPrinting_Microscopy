@@ -1,5 +1,5 @@
-# 3Dprint_field_guide
-A repository of 3D models referenced in "The field guide to 3D printing in microscopy"
+# 3Dprinting_field_guide
+A repository of 3D models referenced in "The field guide to 3D printing in microscopy" (URL: ; doi: )
 
 All the 3D models in this repository we're designed by the authors using OpenSCAD, except the following:
 
