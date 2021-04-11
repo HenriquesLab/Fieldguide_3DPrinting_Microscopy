@@ -5,6 +5,8 @@
 
 All the 3D models in this repository were designed by the authors using OpenSCAD, except the following:
 
+warping_test: uploaded by Haozhe (https://www.thingiverse.com/thing:4227277)
+
 Stringing_test: uploaded by Loohney (http://www.thingiverse.com/thing:2080224)
 
 Bacteriophage: uploaded by Erik Wrenholt (https://www.thingiverse.com/thing:2194253)
