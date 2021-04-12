@@ -9,6 +9,4 @@ warping_test: uploaded by Haozhe (https://www.thingiverse.com/thing:4227277)
 
 Stringing_test: uploaded by Loohney (http://www.thingiverse.com/thing:2080224)
 
-3D_Printer_test: uploaded by Majda107 (https://www.thingiverse.com/thing:2656594)
-
 Bacteriophage: uploaded by Erik Wrenholt (https://www.thingiverse.com/thing:2194253)
