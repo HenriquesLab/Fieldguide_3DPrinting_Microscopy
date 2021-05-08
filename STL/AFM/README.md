@@ -1,3 +1,7 @@
+# Model Atomic Force Microscope to Measure Force–Distance Profiles
+This design was developed in Gruber, D. et al. (2020) Three-Dimensional Printing of a Model Atomic Force Microscope to Measure Force–Distance Profiles. J. Chem. Educ. 2020, 97, 3, 845–849.
+
+More information can be found in the original article at https://doi.org/10.1021/acs.jchemed.9b01099.
 
 ![1](https://user-images.githubusercontent.com/78738710/117556450-1bd21080-b061-11eb-81b8-6fba1062fea6.jpg)
 ![2](https://user-images.githubusercontent.com/78738710/117556452-1e346a80-b061-11eb-8d10-d4c3dc9aed85.jpg)
