@@ -1,3 +1,6 @@
+The following table contains several microscopy-related projects that use 3D printing.
+
+
 | Microscopes/Devices|      Description      | Source/Links | Publications |
 |:------------:|:-----------:|:------------:|:------------:|
 |3D Printable Microscope for Home or Lab|	For educational purposes. The lenses have to be sourced from disposable cameras.|	https://www.instructables.com/3D-printable-microscope-for-home-or-lab/|  | 
