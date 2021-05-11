@@ -1,4 +1,5 @@
 The following table contains several microscopy-related projects that use 3D printing.
+The same table is also available as a MS Excel spreadsheet.
 
 
 | Microscopes/Devices|      Description      | Source/Links | Publications |
