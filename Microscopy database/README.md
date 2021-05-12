@@ -4,8 +4,8 @@
 ##### The same table is also available in this directory as a MS Excel spreadsheet.
 
 
-| **Microscopes/Devices**|      **Description**      | **Source/Links** | **Publications* |
-|:------------:|:-----------:|:------------:|:------------:|
+| **Microscopes/Devices** | **Description** | **Source/Links** | **Publications* |
+|:-----------------------:|:---------------:|:----------------:|:---------------:|
 |3D Printable Microscope for Home or Lab|	For educational purposes. The lenses have to be sourced from disposable cameras.|	https://www.instructables.com/3D-printable-microscope-for-home-or-lab/|  | 
 |Flypi|	The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans.|https://github.com/amchagas/Flypi|	https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702#sec014|
 |AttoBright|The AttoBright is a 10×20 cm single-molecule confocal system capable of single photon counting and fluorescence correlation spectroscopy. The scaffolding is designed to minimize the amount of optical components needed, and make those optical components easy to install with automated alignment.|https://github.com/GambinSiereckiLab/AttoBright|https://www.nature.com/articles/s41467-019-13617-0|
