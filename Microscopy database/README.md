@@ -4,7 +4,7 @@
 ##### The same table is also available in this directory as a MS Excel spreadsheet.
 
 
-| **Microscopes/Devices** | **Description** | **Source/Links** | **Publications* |
+| **Microscopes/Devices** | **Description** | **Source/Links** | **Publications**|
 |:-----------------------:|:---------------:|:----------------:|:---------------:|
 |3D Printable Microscope for Home or Lab|	For educational purposes. The lenses have to be sourced from disposable cameras.|	https://www.instructables.com/3D-printable-microscope-for-home-or-lab/|  | 
 |Flypi|	The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans.|https://github.com/amchagas/Flypi|	https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702#sec014|
